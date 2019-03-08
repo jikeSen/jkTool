@@ -1,0 +1,13 @@
+{
+    "name": "jksen/jktool",
+    "description": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jikeSen",
+            "email": "569045356@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
