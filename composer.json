@@ -8,6 +8,11 @@
             "email": "569045356@qq.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "jikesen\\jkTool\\":"src"
+        }
+    },
     "minimum-stability": "dev",
     "require": {}
 }
